@@ -1,0 +1,4 @@
+restconfig\CorsFilter.class
+restconfig\JAXRSConfiguration.class
+entity\Hero.class
+boundary\HeroResource.class
